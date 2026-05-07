@@ -4,4 +4,4 @@ compatibility_date = "2024-01-01"
 
 [[kv_namespaces]]
 binding  = "SIGNALS"
-id       = "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
+id       = "3a620f107a564eb790867db958b39bfb"
